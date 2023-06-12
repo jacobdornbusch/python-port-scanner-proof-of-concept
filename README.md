@@ -39,8 +39,6 @@ This Python utility allows you to scan a range of ports on a target host to dete
 <h2>Customization</h2>
 You can customize the target host and port range in the script to match your specific requirements. For example, you can scan a single host, multiple hosts, or a different range of ports. Feel free to modify the script and add additional functionality as needed.
 
-Make sure to replace the "Customization" section with any additional features or modifications you make to the utility. You can also include information on how to contribute or provide feedback if you want to encourage collaboration on your GitHub repository.
-
 <h1>Legal Disclaimer for Port Scanner (Proof of Concept)</h2>
 
 Please read the following disclaimer carefully before using the Port Scanner Proof of Concept ("the tool") developed by Jacob Dornbusch ("the author"). By using the tool, you agree to be bound by the terms and conditions stated herein.
